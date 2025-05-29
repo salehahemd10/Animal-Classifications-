@@ -158,5 +158,5 @@ The model successfully classifies unseen images into cat or dog classes based on
 
 ## Contact
 
-Created by [Your Name] - feel free to reach out or contribute to the project.
+Created by [Saleh Ahmed Saleh Zahran] - feel free to reach out or contribute to the project.
 
