@@ -147,7 +147,7 @@ print("Accuracy:", accuracy)
 
 ## Results
 
-The model successfully classifies unseen images into cat or dog classes based on LBP texture features. Visualization of predictions is done using matplotlib.
+The model successfully classifies unseen images into cat or dog classes based on LBP texture features. Visualization of predictions is done using matplotlib
 
 ## Future Work
 
